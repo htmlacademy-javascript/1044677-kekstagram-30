@@ -16,6 +16,7 @@
     "vite": "4.4.9"
   },
   "license": "MIT",
+"dependencies": {},
   "scripts": {
     "start": "vite --port 3000 --open",
     "lint": "eslint js/"
